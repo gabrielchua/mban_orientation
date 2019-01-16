@@ -66,7 +66,9 @@ summary_table <- recent_listings %>%
 	ungroup()
 ```
 
+
 # Descriptive Analysis
+
 
 Column {data-width=650}
 -----------------------------------------------------------------------
@@ -131,4 +133,3 @@ Column {data-width=350}
 
 ### Box 2
 
-### Box 3
